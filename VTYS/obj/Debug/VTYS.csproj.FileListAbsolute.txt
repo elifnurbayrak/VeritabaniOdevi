@@ -1,0 +1,33 @@
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\bin\Debug\VTYS.exe.config
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\bin\Debug\VTYS.exe
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\bin\Debug\VTYS.pdb
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.csprojAssemblyReference.cache
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.Form1.resources
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.Properties.Resources.resources
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.csproj.GenerateResource.cache
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.csproj.CoreCompileInputs.cache
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.exe
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.pdb
+C:\Users\Elifnur Bayrak\Desktop\VTYS\VTYS\obj\Debug\VTYS.Form2.resources
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\bin\Debug\VTYS.exe.config
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\bin\Debug\VTYS.exe
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\bin\Debug\VTYS.pdb
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.csprojAssemblyReference.cache
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.Form1.resources
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.Form2.resources
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.Properties.Resources.resources
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.csproj.GenerateResource.cache
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.csproj.CoreCompileInputs.cache
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.exe
+C:\Users\Elifnur Bayrak\Desktop\masaüstü\VTYS\VTYS\obj\Debug\VTYS.pdb
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\bin\Debug\VTYS.exe.config
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\bin\Debug\VTYS.exe
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\bin\Debug\VTYS.pdb
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.csprojAssemblyReference.cache
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.Form1.resources
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.Form2.resources
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.Properties.Resources.resources
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.csproj.GenerateResource.cache
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.csproj.CoreCompileInputs.cache
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.exe
+E:\masaüstü\canım hiç öpmiyim 3. sınıfım\VTYS\VTYS\obj\Debug\VTYS.pdb
